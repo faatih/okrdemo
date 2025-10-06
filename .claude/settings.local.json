@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(md-tree:*)",
+      "WebSearch",
+      "WebFetch(domain:www.okrstool.com)",
+      "Bash(cat:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,25 @@
+# RunwayOKR Fullstack Architecture Document
+
+## Table of Contents
+
+- [RunwayOKR Fullstack Architecture Document](#table-of-contents)
+  - [Change Log](#change-log)
+  - [Introduction](#introduction)
+  - [High Level Architecture](#high-level-architecture)
+  - [Tech Stack](#tech-stack)
+  - [Data Models](#data-models)
+  - [API Specification](#api-specification)
+  - [Components](#components)
+  - [Database Schema](#database-schema)
+  - [Frontend Architecture](#frontend-architecture)
+  - [Backend Architecture](#backend-architecture)
+  - [Unified Project Structure](#unified-project-structure)
+  - [Development Workflow](#development-workflow)
+  - [Deployment Architecture](#deployment-architecture)
+  - [Security and Performance](#security-and-performance)
+  - [Testing Strategy](#testing-strategy)
+  - [Coding Standards](#coding-standards)
+  - [Error Handling Strategy](#error-handling-strategy)
+  - [Monitoring and Observability](#monitoring-and-observability)
+  - [Architecture Checklist Results](#architecture-checklist-results)
+  - [Next Steps for Development Team](#next-steps-for-development-team)
